@@ -2,14 +2,11 @@
 
 ## Submissão
 
-Atualmente estamos aceitando subimissões de talks, palestras, workshops pelo seguinte endereço: [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScDw3aU0bbQTnPCL1CDGDY57ePIxehowKCQFI8l6NvxLHURBw/viewform?usp=sf_link), ressaltamos que todo e qualquer evento da Comunidade AfterData respeita seu [Código de Conduta](https://github.com/afterdata/conduta).
+Aceitamos subimissões de talks, palestras e workshops pelo nosso [questionário](https://docs.google.com/forms/d/e/1FAIpQLScDw3aU0bbQTnPCL1CDGDY57ePIxehowKCQFI8l6NvxLHURBw/viewform?usp=sf_link), ressaltamos que todo e qualquer evento da Comunidade AfterData respeita seu [Código de Conduta](https://github.com/afterdata/conduta).
 
 ## Processo de Avaliação
 
-Após submetido o Forms, estaremos analisando e entrando em contato para alinhar os seguintes quesitos com o Palestrante:
-* Data Disponível
-* Público Alvo
-* Tema
+Após submetido o Forms, estaremos analisando e entrando em contato com o Palestrante, a fim de alinhar conteúdo, disponibilidade e outros detalhes.
 
 ## Processo Pós Evento
 
