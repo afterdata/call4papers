@@ -2,7 +2,7 @@
 
 ## Submissão
 
-Aceitamos subimissões de talks, palestras e workshops pelo nosso [questionário](https://docs.google.com/forms/d/e/1FAIpQLScDw3aU0bbQTnPCL1CDGDY57ePIxehowKCQFI8l6NvxLHURBw/viewform?usp=sf_link), ressaltamos que todo e qualquer evento da Comunidade AfterData respeita seu [Código de Conduta](https://github.com/afterdata/conduta).
+Aceitamos subimissões de talks, palestras e workshops pelo nosso [questionário](https://forms.gle/YTBopv7TyEKByvu38), ressaltamos que todo e qualquer evento da Comunidade AfterData respeita seu [Código de Conduta](https://github.com/afterdata/conduta).
 
 ## Processo de Avaliação
 
